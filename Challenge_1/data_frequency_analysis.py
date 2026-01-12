@@ -42,7 +42,7 @@ def opt_frequency_analysis(text: str, top_n: int) -> list[tuple[str, int]]:
         top_n: The number of top frequent words to return.
 
     Returns:
-        A list of tuples, each containing a word and its frequency.
+        A list of tuples, each containing a word and its frequency
     """
 
     
