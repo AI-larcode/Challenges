@@ -1,8 +1,8 @@
-# Python Mastery: Daily Challenges 🐍
+# Python Mastery: Challenges 🐍
 This repository serves as a log of my journey toward becoming an advanced Python programmer and achieving true fluency in the language. My goal is to stop writing code with "accents" from other languages and fully embrace what the community defines as Pythonic code.
 
 ## 🚀 Methodology: The Refactoring Process
-Every daily challenge consists of two distinct phases, reflecting my technical evolution:
+Every challenge consists of two distinct phases, reflecting my technical evolution:
 1. Initial Version (Naive): My first attempt, prioritizing core functionality based on my current knowledge. This stage helps identify specific needs that Python can solve more elegantly.
 2. Optimized Version (Fluent/Effective): A deep refactoring performed after studying the fundamentals in "Effective Python" and "Fluent Python". At this stage, I apply the Python Data Model to ensure my objects integrate naturally with the language's core features.
 
